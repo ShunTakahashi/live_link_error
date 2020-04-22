@@ -40,13 +40,14 @@ gem 'mini_magick'
 gem 'fog-aws'
 gem 'dotenv-rails'
 gem 'devise'
+gem 'bootstrap','~> 4.3.1'
 gem 'jquery-rails'
 gem 'geocoder'
 gem 'gon'
 gem 'ransack'
-gem 'dotenv-rails'
+
 gem 'kaminari'
-gem 'dotenv-rails'
+
 gem 'unicorn'
 gem 'mini_racer', platforms: :ruby
 gem 'bcrypt', '~> 3.1.7'
